@@ -1,0 +1,265 @@
+.aut {
+    display: block;
+    font-family: Goudy;
+    font-size: 1.77778em;
+    line-height: 1.2;
+    margin-bottom: 0.5em
+    }
+.calibre {
+    height: auto;
+    max-width: 100%;
+    width: auto
+    }
+.calibre1 {
+    display: block;
+    font-family: Gill;
+    font-size: 0.66667em
+    }
+.calibre2 {
+    font-style: italic
+    }
+.calibre3 {
+    color: #7A7A7A;
+    text-decoration: none
+    }
+.calibre4 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.calibre5 {
+    display: block
+    }
+.calibre6 {
+    font-size: 1.125em
+    }
+.calibre7 {
+    height: auto;
+    width: auto
+    }
+.calibre8 {
+    display: block;
+    font-family: Gill;
+    font-size: 0.66667em;
+    font-weight: normal;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: left
+    }
+.calibre9 {
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre10 {
+    display: list-item;
+    font-family: Gill;
+    font-size: 0.66667em;
+    font-weight: normal;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    padding-bottom: 0.5em
+    }
+.calibre11 {
+    display: block;
+    font-family: Gill;
+    font-size: 0.66667em;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 0
+    }
+.calibre12 {
+    display: block;
+    font-family: Berling;
+    font-size: 1.25926em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-align: center
+    }
+.calibre13 {
+    display: block;
+    font-family: Berling;
+    font-size: 0.88889em;
+    line-height: 1.4em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.5em
+    }
+.calibre14 {
+    display: block;
+    font-family: Gill;
+    font-size: 0.88889em;
+    font-weight: 300;
+    line-height: 1.4em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-indent: 1.5em
+    }
+.copy {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em
+    }
+.cover-container {
+    display: block;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    max-width: 500px;
+    page-break-inside: avoid
+    }
+.double {
+    display: block;
+    margin-top: 2em
+    }
+.double1 {
+    display: block;
+    font-family: Gill;
+    font-size: 0.66667em;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    text-indent: 0
+    }
+.epub-type_cover {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.letter {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.logo {
+    display: block;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em
+    }
+.part {
+    display: block;
+    font-family: Berling;
+    font-size: 1.25926em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 2em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 3em;
+    text-align: center
+    }
+.right {
+    display: block;
+    font-family: Gill;
+    font-size: 0.88889em;
+    font-weight: 300;
+    line-height: 1.4em;
+    margin-bottom: 0.8em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.8em;
+    text-align: right;
+    text-indent: 1.5em
+    }
+.seri {
+    display: block;
+    font-family: Gill;
+    font-size: 0.88889em;
+    margin-top: 2.5em
+    }
+.si-backref {
+    color: #000;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-decoration: none
+    }
+.si-footnote {
+    display: block;
+    font-family: Gill;
+    font-size: 0.66667em;
+    margin-bottom: 0.3em
+    }
+.si-footnotes {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4em
+    }
+.si-noteref {
+    color: #7A7A7A;
+    font-size: 0.75em;
+    padding-left: 0.1em;
+    text-decoration: none;
+    vertical-align: super
+    }
+.title {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: center
+    }
+.trans {
+    display: block;
+    font-family: Gill;
+    font-size: 0.88889em;
+    line-height: 1.5em;
+    margin-top: 1.5em
+    }
+.win {
+    display: block;
+    font-family: Gill;
+    font-size: 1em;
+    line-height: 1.2;
+    margin-top: 1.5em
+    }
+.work {
+    display: block;
+    font-family: Goudy;
+    font-size: 1.77778em;
+    line-height: 1.2;
+    margin-top: 0
+    }
